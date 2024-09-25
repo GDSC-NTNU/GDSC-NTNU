@@ -1,0 +1,67 @@
+{
+    "blocks": [
+        {
+            "block": "head",
+            "permission": 0,
+            "display": "GDG on Campus: NTNU",
+            "avatar": "https://avatars.githubusercontent.com/u/144470220"
+        },
+        {
+            "block": "chat",
+            "permission": 0,
+            "greeting": "👋 嗨！歡迎來到 GDG on Campus: NTNU 師大學生開發者社群社。",
+            "about": "「一個人可以走得很快，但一群人可以走得更遠。」我們致力於讓所有開發者都能夠找到志同道合的夥伴，滿載而歸。"
+        },
+        {
+            "block": "action",
+            "title": "你可以在這些地方參與我們的活動～",
+            "permission": 0,
+            "actions": [
+                {
+                    "display": {
+                        "icon": "mdi:event-multiple",
+                        "text": "GDG Platform",
+                        "color": "214 82% 51%"
+                    },
+                    "handle": {
+                        "type": "link",
+                        "value": "https://gdg.community.dev/gdg-on-campus-national-taiwan-normal-university-taipei-taiwan/"
+                    }
+                },
+                {
+                    "display": {
+                        "icon": "mdi:instagram",
+                        "text": "Instagram",
+                        "color": "309 76% 48%"
+                    },
+                    "handle": {
+                        "type": "link",
+                        "value": "https://www.instagram.com/gdsc_ntnu/"
+                    }
+                },
+                {
+                    "display": {
+                        "icon": "carbon:logo-discord",
+                        "text": "Discord",
+                        "color": "235 86% 65%"
+                    },
+                    "handle": {
+                        "type": "link",
+                        "value": "https://discord.gg/ANfAvvrGZN"
+                    }
+                },
+                {
+                    "display": {
+                        "icon": "mdi:github",
+                        "text": "GitHub",
+                        "color": ""
+                    },
+                    "handle": {
+                        "type": "link",
+                        "value": "https://github.com/GDSC-NTNU"
+                    }
+                }
+            ]
+        }
+    ]
+}
